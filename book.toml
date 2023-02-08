@@ -1,0 +1,32 @@
+[book]
+authors = ["zhengweiliang"]
+language = "en"
+description = "The example book covers examples."
+multilingual = false
+src = "src"
+title = "mdBook测试程序"
+
+[rust]
+edition = "2015"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+curly-quotes = true
+mathjax-support = false
+copy-fonts = true
+#additional-css = ["custom.css", "custom2.css"]
+#additional-js = ["custom.js"]
+no-section-label = false
+git-repository-url = "https://github.com/rust-lang/mdBook"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/rust-lang/mdBook/edit/master/guide/{path}"
+site-url = "/example-book/"
+cname = "myproject.rs"
+
+[output.html.playground]
+editable = false         # allows editing the source code
+copyable = true          # include the copy button for copying code snippets
+copy-js = true           # includes the JavaScript for the code editor
+line-numbers = false     # displays line numbers for editable code
+runnable = true          # displays a run button for rust code
