@@ -1,10 +1,10 @@
-[test]
-authors = ["zhengweiliang"]
-language = "en"
-description = "The example book covers examples."
+[book]
+authors = ["xinglongjian"]
+language = "zh"
+description = "This is MICI TECH STACK Official Documents."
 multilingual = false
 src = "src"
-title = "mdBook测试程序"
+title = "幂次小栈官方文档"
 
 [rust]
 edition = "2015"
@@ -18,10 +18,10 @@ copy-fonts = true
 #additional-css = ["custom.css", "custom2.css"]
 #additional-js = ["custom.js"]
 no-section-label = false
-git-repository-url = "https://github.com/rust-lang/mdBook"
+git-repository-url = "https://github.com/micitechstack/mici"
 git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/rust-lang/mdBook/edit/master/guide/{path}"
-site-url = "/example-book/"
+edit-url-template = "https://github.com/micitechstack/mici/edit/master/guide/{path}"
+site-url = "/mici/"
 cname = "myproject.rs"
 
 [output.html.playground]
