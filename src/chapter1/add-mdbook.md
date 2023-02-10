@@ -8,3 +8,7 @@ fatal: unable to access 'https://github.com/micitechstack/mici.git/': OpenSSL SS
 ```
 解决办法1:
 尝试取消git的代理
+```
+git config --global http.sslVerify "false"
+git config --global --unset http.proxy
+```
