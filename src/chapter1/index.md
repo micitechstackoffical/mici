@@ -1,6 +1,6 @@
 # Chapter 1
 
-这是第一个章节
+该章节主要介绍工具管理部分
 
 ```java
 public class HelloWorld {
