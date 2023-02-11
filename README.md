@@ -17,13 +17,13 @@
 幂次技术栈提供了一些方便用户查阅和传播的内容。比如查看工具、阅读文章、参加活动、在线试题等。
 微信小程序搜索“幂次技术栈”或扫描下面二维码关注：
 
-![输入图片说明](https://foruda.gitee.com/images/1674052665619775841/7252d336_7919859.jpeg "mp-stack.jpg")
+![输入图片说明](https://images-1258433566.cos.ap-shanghai.myqcloud.com/mici-mp.jpg "mp-stack.jpg")
 
 ## 如何加入用户群和专家群
 1. 用户群是幂次小栈的使用用户的群，可以在群里交流技术栈以及幂次小栈的问题。
 2. 专家群是幂次小栈聚集了一群对技术有狂热追求的技术大咖，大家各自去研究一个自己感兴趣的技术栈领域，去深耕，输出教程、文档或视频等，对于个人技能提升以及职业生涯有很大帮助。
 添加程序员小幂的微信，将您拉入用户群或专家群。
 
-![输入图片说明](https://foruda.gitee.com/images/1674100336750755468/f494cdd5_7919859.png "weixin-mi.png")
+![输入图片说明](https://images-1258433566.cos.ap-shanghai.myqcloud.com/chengxuyuan_mi.jpg "weixin-mi.png")
 
 
