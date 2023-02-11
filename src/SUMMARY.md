@@ -7,5 +7,3 @@
 - [在线测试](chapter2/index.md)
 - [活动管理](chapter3/index.md)
     - [添加活动](chapter3/add-activity.md)
-
-[Title of Suffix Chapter](markdown2.md)
