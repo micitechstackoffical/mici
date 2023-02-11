@@ -1,6 +1,6 @@
 # Summary
 
-[关于幂次小栈](README.md)
+[关于幂次小栈](../README.md)
 - [工具管理](chapter1/index.md)
 	- [添加工具](chapter1/add-tool.md)
 	- [添加教程](chapter1/add-mdbook.md)
