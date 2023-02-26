@@ -18,7 +18,7 @@
 幂次技术栈提供了一些方便用户查阅和传播的内容。比如查看工具、阅读文章、参加活动、在线试题等。
 微信小程序搜索`'幂次技术栈'`或扫描下面二维码关注：
 
-![输入图片说明](./src/images/mici-mp.jpg)
+![幂次技术栈](https://images-1258433566.cos.ap-shanghai.myqcloud.com/mici-mp.jpg "mp-stack.jpg")
 
 ## 加入幂次科技
 科技的大浪滚滚向前，推动者时代不断进步。从过去，到现在，再到未来，科技永远都是第一生产力。
@@ -61,6 +61,6 @@
 1. 用户群是幂次小栈的用户群，可以在群里交流技术栈问题以及幂次小栈的问题。
 添加`程序员小幂`的微信，注明`加入幂次用户群`。
 
-![输入图片说明](./src/images/chengxuyuan_mi.jpg)
+![客服微信](https://images-1258433566.cos.ap-shanghai.myqcloud.com/chengxuyuan_mi.jpg "weixin-mi.png")
 
 
