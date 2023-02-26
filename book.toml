@@ -7,22 +7,13 @@ src = "src"
 title = "幂次小栈官方文档"
 
 [rust]
-edition = "2015"
+edition = "2018"
 
 [output.html]
-default-theme = "light"
-preferred-dark-theme = "navy"
-curly-quotes = true
-mathjax-support = false
-copy-fonts = true
-#additional-css = ["custom.css", "custom2.css"]
-#additional-js = ["custom.js"]
-no-section-label = false
-git-repository-url = "https://github.com/micitechstack/mici"
-git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/micitechstack/mici/edit/main/{path}"
+mathjax-support = true
+git-repository-url = "https://github.com/micitechstackoffical/mici"
+edit-url-template = "https://github.com/micitechstackoffical/mici/edit/main/{path}"
 site-url = "/mici/"
-cname = "myproject.rs"
 
 [output.html.playground]
 editable = false         # allows editing the source code
